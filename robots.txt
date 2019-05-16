@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oivaequoom.islajamie.com/sitemap.xml
